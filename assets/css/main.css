@@ -218,7 +218,7 @@ th {
   padding: 7px 0 130px;
   position: relative;
   width: 99%;
-  padding-top: 0px;
+  padding-top: 20px;
 }
 /* -- Table of Contents ----------------------------------------------------- */
 /* The #toc id refers to the single global table of contents, while the .toc
